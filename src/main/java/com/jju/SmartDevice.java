@@ -1,7 +1,7 @@
 package com.jju;
 
 public abstract class SmartDevice {
-    private String name;
+    private final String name;
 
     public SmartDevice(String name) {
         this.name = name;

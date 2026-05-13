@@ -1,0 +1,7 @@
+{
+    "snyk.advanced.autoSelectOrganization": true,
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
