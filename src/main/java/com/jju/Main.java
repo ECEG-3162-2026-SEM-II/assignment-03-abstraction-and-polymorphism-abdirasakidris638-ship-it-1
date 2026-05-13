@@ -9,7 +9,7 @@ public class Main {
         List<SmartDevice> home = new ArrayList<>();
 
         home.add(new SmartLight("Living Room Lamp"));
-        home.add(new SmartThermostat("Hallway Nest"));
+        home.add(new SmartDevice("Hallway Nest"));
 
         System.out.println("--- Activating Smart Home ---");
 
